@@ -1,0 +1,5 @@
+Site_ID,Frequency,EffectiveDiameter,BeamOrientation,SlantAngle,BlankDistance,CellSize,NumberOfCells,BeamNumber,MovingAverage,BSValues,IntenScale,RMin,RMax,MinCells,MinVbeam,NearField,RemoveMinWCB
+05325000,1500,0.03,Horizontal,25,2.00,1.80,10,Avg,3,SNR,[],2,9.2,2,-inf,FALSE,TRUE
+05325300,1500,0.03,Horizontal,25,4.00,1.20,10,Avg,3,SNR,[],4,11,1,-inf,FALSE,TRUE
+05330000,1500,0.03,Horizontal,25,1.50,1.05,10,Avg,5,SNR,[],7,11.6,1,-inf,FALSE,TRUE
+05331000,1500,0.03,Horizontal,25,0.91,2.44,5,1,5,SNR,[],2.35,14,1,-inf,FALSE,TRUE
