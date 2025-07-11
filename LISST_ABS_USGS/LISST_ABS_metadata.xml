@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Adam E. Manaster</origin>
+        <pubdate>20200626</pubdate>
+        <title>Data for Field Evaluation of the Sequoia Scientific LISST-ABS Acoustic Backscatter Sediment Sensor</title>
+        <geoform>spreadsheet</geoform>
+        <serinfo>
+          <sername>OFR</sername>
+          <issue></issue>
+        </serinfo>
+        <onlink>https://doi.org/10.5066/P9LROJE4</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Adam E. Manaster</origin>
+            <origin>Timothy D. Straub</origin>
+            <origin>Molly S. Wood</origin>
+            <origin>Joseph M. Bell</origin>
+            <origin>Daniel E. Dombroski</origin>
+            <origin>Christopher A. Curran</origin>
+            <pubdate>20200630</pubdate>
+            <title>Field Evaluation of the Sequoia Scientific LISST-ABS Acoustic Backscatter Sediment Sensor</title>
+            <geoform>publication</geoform>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This dataset summarizes various sedimentary data from ten U.S. Geological Survey (USGS) surface water sites across the contiguous United States. These sites include:
+
+01648010 Rock Creek at Joyce Road, Washington, DC
+05586300 Illinois River at Florence, Illinois
+06731000 Cherry Creek below Cherry Creek Lake, Colorado
+06807000 Missouri River at Nebraska City, Nebraska
+06935965 Missouri River at St. Charles, Missouri
+08374550 Rio Grande near Castolon, Texas
+08375300 Rio Grande at Rio Grande Village, Big Bend National Park, Texas
+09404200 Colorado River above Diamond Creek near Peach Springs, Arizona
+11447650 Sacramento River at Freeport, California
+12046260 Elwha River at diversion near Port Angeles, Washington
+
+The dataset includes suspended-sediment concentration (SSC) data derived from an in-situ acoustic sensor (in milligrams per liter, mg/L), as well as laboratory-analyzed SSC data from discrete, physical samples (in mg/L), turbidity data collected from optical sensors (in Formazin Nephelometric Units, FNU), percentage of fines data (percent fines, %), and depth below the surface of the river (in meters) where physical samples were collected for select sites. The in-situ SSC data were determined using Sequoia Scientific’s LISST-ABS, a submersible acoustic sensor that measures acoustic backscatter at a point within a river or stream cross-section. The LISST-ABS emits an acoustic signal and measures the relative strength of the backscatter (the acoustic energy scattered by sediment back toward the signal source) which is converted from decibels to a concentration reading in milligrams per liter.</abstract>
+      <purpose>The data were collected to assess the accuracy of using factory-calibrated models of Sequoia Scientific’s LISST-ABS as a surrogate for measuring the SSC in a dynamic fluvial system such as a river. Laboratory-analyzed SSC data from physical samples, as well as turbidity and percent fines data, were collected for comparison with the LISST-ABS.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20160110</begdate>
+          <enddate>20180221</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-123.5600</westbc>
+        <eastbc>-77.0400</eastbc>
+        <northbc>48.1200</northbc>
+        <southbc>29.1300</southbc>
+      </bounding>
+      <descgeog>United States</descgeog>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>biota</themekey>
+      </theme>
+      <theme>
+        <themekt>Marine Realms Information Bank (MRIB) keywords</themekt>
+        <themekey>acoustics</themekey>
+        <themekey>acoustic methods</themekey>
+        <themekey>river</themekey>
+        <themekey>creek</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>sediment transport</themekey>
+        <themekey>suspended material (water)</themekey>
+        <themekey>sedimentology</themekey>
+        <themekey>turbidity</themekey>
+        <themekey>regression analysis</themekey>
+      </theme>
+      <theme>
+        <themekt>Coastal and Marine Ecological Classification Standard</themekt>
+        <themekey>Fine Sand</themekey>
+        <themekey>Very Fine Sand</themekey>
+        <themekey>Silt</themekey>
+        <themekey>Clay</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:5ec55e3482ce476925eb52b2</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Missouri River</placekey>
+        <placekey>Illinois River</placekey>
+        <placekey>Sacramento River</placekey>
+        <placekey>Elwha River</placekey>
+        <placekey>Rio Grande River</placekey>
+        <placekey>Rock Creek</placekey>
+        <placekey>Colorado River</placekey>
+        <placekey>Cherry Creek</placekey>
+      </place>
+    </keywords>
+    <accconst>None. Please see 'Distribution Info' for details.</accconst>
+    <useconst>None. Users are advised to read the dataset's metadata thoroughly to understand appropriate use and data limitations.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Adam Manaster</cntper>
+          <cntorg>U.S. Geological Survey Central Midwest Water Science Center</cntorg>
+        </cntperp>
+        <cntpos>Student Hydrologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>405 N. Goodwin Avenue</address>
+          <city>Urbana</city>
+          <state>Illinois</state>
+          <postal>61801</postal>
+          <country>U.S.</country>
+        </cntaddr>
+        <cntvoice>217-328-9707</cntvoice>
+        <cntfax>217-328-9770</cntfax>
+        <cntemail>aemanaster@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>U.S. Geological Survey (USGS) Observing Systems Division and Federal Interagency Sedimentation Project, David Topping, Mark Lander, and Robert Hilldale</datacred>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Laboratory analyses were performed following standard U.S. Geological Survey (USGS) quality assurance and quality control procedures. The laboratory data will be used to assess the accuracy of the LISST-ABS in-situ measurements.</attraccr>
+    </attracc>
+    <logic>No formal logical consistency tests were performed, though data values fall within expected ranges and the data have been checked for duplication/omission.</logic>
+    <complete>Data set is considered complete for the information presented (as described in the abstract).</complete>
+    <lineage>
+      <procstep>
+        <procdesc>LISST-ABS and turbidity measurements were taken concurrently with physical sediment sampling using a point sampler (P-6) at USGS surface water sites 05586300 (25 samples), 06807000 (25 samples), 06935965 (15 samples), and 11447650 (22 samples). At each site, concurrent measurements and samples were taken at multiple verticals and various depths within each vertical. The goal was to take five point-samples at each of five verticals (25 samples in total) spaced across the channel to correspond with the equal discharge increment locations. The depth below surface to total depth ratio (d/H) for the five samples in each vertical consisted of 0.2, 0.4, 0.6, 0.8, and 0.9. At all sites, vertical 1 samples were collected on the leftmost side of the channel and vertical 5 samples were collected on the rightmost side of the channel (with the exception of site 06935965 which was numbered the opposite direction). Turbidity measurements at USGS surface water site 11447650 were taken with an RBR Concerto turbidity sensor while a YSI model 6136 turbidity sensor was used at the other 3 sites. The serial number of the LISST-ABS used at USGS sites 05586300 and 06807000 was 6038; at USGS site 06935965, the serial number was 6043 and at USGS site 11447650, the serial number was 6058.</procdesc>
+        <procdate>20200302</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>LISST-ABS measurements were taken concurrently with physical sediment sampling at USGS surface water sites 12046260 and 01648010 using an automatic pump sampler with the intake at a fixed location at approximately the same depth as the LISST-ABS. However, these sites did not follow the methodology as described above because samples and measurements were taken over the course of a month and a half for USGS site 12046260 and over the course of multiple years for USGS site 01648010. In addition, more than 25 samples and measurements were taken at both sites. Note that turbidity measurements were also taken concurrently with physical sediment sampling at USGS site 12046260 with a DTS-12 digital turbidity sensor and at USGS site 01648010 with a YSI EXO2 optical turbidity sensor. The serial number of the LISST-ABS used at USGS site 12046260 was 6019 whereas it was 6020 at USGS site 01648010.</procdesc>
+        <procdate>20200302</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>LISST-ABS measurements were taken concurrently with physical sediment sampling at USGS surface water sites 08374550, 08375300, and 09404200. Samples at USGS site 08374550 were US DH-48 single-vertical samples, while samples at USGS site 08375300 were dip samples and samples at USGS site 09404200 were US DH-81 single-vertical samples. Individual LISST-ABS measurements were averaged over a 2-minute window centered around the time of the physical samples. The serial number of the LISST-ABS used at these sites was 6039.</procdesc>
+        <procdate>20200302</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>LISST-ABS measurements were taken concurrently with physical sediment sampling at USGS surface water site 06713000 using a US DH-95 sampler. Individual LISST-ABS measurements were averaged over a 5-minute window centered around the time of the physical samples. The serial number of the LISST-ABS used at this site was 6078.</procdesc>
+        <procdate>20200302</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Cherry_Creek_06713000.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing various sedimentary data collected at Cherry Creek below Cherry Creek Lake, Colorado (U.S. Geological Survey surface water site 06713000).</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>Date of sample collection.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>5/24/2017</rdommin>
+            <rdommax>5/24/2017</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ABS</attrlabl>
+        <attrdef>In-situ LISST-ABS measurements of suspended-sediment concentrations (in mg/L).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>36.5</rdommin>
+            <rdommax>289</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Total SSC</attrlabl>
+        <attrdef>Total suspended-sediment concentration (in mg/L) from a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>33.5</rdommin>
+            <rdommax>330</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Fines</attrlabl>
+        <attrdef>Suspended-sediment concentration of solely the fine-grained sediment (that is, sediment less than 62.5 microns in diameter) in a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>28.3</rdommin>
+            <rdommax>220</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Sands</attrlabl>
+        <attrdef>Suspended-sediment concentration of solely the coarse-grained sediment (that is, sediment greater than 62.5 microns in diameter) in a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>5.21</rdommin>
+            <rdommax>109</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>Colorado_River_09404200.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing various sedimentary data collected at Colorado River above Diamond Creek near Peach Springs, Arizona (U.S. Geological Survey surface water site 09404200).</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>Date of sample collection.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>11/9/2016</rdommin>
+            <rdommax>11/12/2016</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ABS</attrlabl>
+        <attrdef>In-situ LISST-ABS measurements of suspended-sediment concentrations (in mg/L).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1061</rdommin>
+            <rdommax>3193</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Total SSC</attrlabl>
+        <attrdef>Total suspended-sediment concentration (in mg/L) from a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1460</rdommin>
+            <rdommax>7583</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Fines</attrlabl>
+        <attrdef>Suspended-sediment concentration of solely the fine-grained sediment (that is, sediment less than 62.5 microns in diameter) in a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>707</rdommin>
+            <rdommax>6690</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Sands</attrlabl>
+        <attrdef>Suspended-sediment concentration of solely the coarse-grained sediment (that is, sediment greater than 62.5 microns in diameter) in a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>753</rdommin>
+            <rdommax>1300</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>Elwha_River_12046260.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing various sedimentary data collected at Elwha River at Diversion near Port Angeles, Washington (U.S. Geological Survey surface water site 12046260).</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>Date of sample collection.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1/1/2017</rdommin>
+            <rdommax>2/9/2018</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ABS</attrlabl>
+        <attrdef>In-situ LISST-ABS measurements of suspended-sediment concentrations (in mg/L).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NaN</edomv>
+            <edomvd>No data because this column is only associated with fines/sands suspended-sediment concentration values.</edomvd>
+            <edomvds>Producer Defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>3.3</rdommin>
+            <rdommax>147</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ABS (All)</attrlabl>
+        <attrdef>In-situ LISST-ABS measurements of suspended-sediment concentrations (SSCs, in mg/L). "(All)" refers to all data that were taken at this site without omitting values that were not linked to fines/sands SSC values.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.7</rdommin>
+            <rdommax>266</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Turbidity</attrlabl>
+        <attrdef>In-situ turbidity readings (in FNU) obtained from an optical turbidity sensor.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NaN</edomv>
+            <edomvd>No data because this column is only associated with fines/sands suspended-sediment concentration values.</edomvd>
+            <edomvds>Producer Defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>14.9</rdommin>
+            <rdommax>255</rdommax>
+            <attrunit>Formazin Nephelometric Units (FNU)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Turb (All)</attrlabl>
+        <attrdef>In-situ turbidity readings (in FNU) obtained from an optical turbidity sensor. "(All)" refers to all data that were taken at this site without omitting values that were not linked to fines/sands SSC values.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1.78</rdommin>
+            <rdommax>255</rdommax>
+            <attrunit>Formazin Nephelometric Units (FNU)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Total SSC</attrlabl>
+        <attrdef>Total suspended-sediment concentration (in mg/L) from a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NaN</edomv>
+            <edomvd>No data because this column is only associated with fines/sands suspended-sediment concentration values.</edomvd>
+            <edomvds>Producer Defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>21</rdommin>
+            <rdommax>330</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SSC (All)</attrlabl>
+        <attrdef>Total suspended-sediment concentration (in mg/L) from a given physical sample (analyzed in a laboratory setting). "(All)" refers to all data that were taken at this site without omitting values that were not linked to fines/sands SSC values.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2</rdommin>
+            <rdommax>383</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Fines</attrlabl>
+        <attrdef>Suspended-sediment concentration of solely the fine-grained sediment (that is, sediment less than 62.5 microns in diameter) in a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NaN</edomv>
+            <edomvd>No data were collected in tandem with instrument measurements.</edomvd>
+            <edomvds>Producer Defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>17</rdommin>
+            <rdommax>281</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Sands</attrlabl>
+        <attrdef>Suspended-sediment concentration of solely the coarse-grained sediment (that is, sediment greater than 62.5 microns in diameter) in a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NaN</edomv>
+            <edomvd>No data were collected in tandem with instrument measurements.</edomvd>
+            <edomvds>Producer Defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>3.63</rdommin>
+            <rdommax>49.5</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>Illinois_River_05586300.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing various sedimentary data collected at Illinois River at Florence, Illinois (U.S. Geological Survey surface water site 05586300).</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>Date of sample collection.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>5/23/2017</rdommin>
+            <rdommax>5/23/2017</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Depth</attrlabl>
+        <attrdef>Depth below the surface of the river (in meters) where physical samples and LISST-ABS and turbidity measurements were taken concurrently.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1.37</rdommin>
+            <rdommax>9.33</rdommax>
+            <attrunit>Meters (m)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ABS</attrlabl>
+        <attrdef>In-situ LISST-ABS measurements of suspended-sediment concentrations (in mg/L).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>11</rdommin>
+            <rdommax>46.5</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Turbidity</attrlabl>
+        <attrdef>In-situ turbidity readings (in FNU) obtained from an optical turbidity sensor.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>42.4</rdommin>
+            <rdommax>52.2</rdommax>
+            <attrunit>Formazin Nephelometric Units (FNU)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Total SSC</attrlabl>
+        <attrdef>Total suspended-sediment concentration (in mg/L) from a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>61</rdommin>
+            <rdommax>98</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Percent Finer</attrlabl>
+        <attrdef>Percentage of sediment finer than 62.5 microns in diameter for a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>62</rdommin>
+            <rdommax>99</rdommax>
+            <attrunit>Percent (%)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Fines</attrlabl>
+        <attrdef>Suspended-sediment concentration of solely the fine-grained sediment (that is, sediment less than 62.5 microns in diameter) in a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>57.4</rdommin>
+            <rdommax>69.8</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Sands</attrlabl>
+        <attrdef>Suspended-sediment concentration of solely the coarse-grained sediment (that is, sediment greater than 62.5 microns in diameter) in a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.67</rdommin>
+            <rdommax>37.2</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>Missouri_River_NebraskaCity_06807000.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing various sedimentary data collected at Missouri River at Nebraska City, Nebraska (U.S. Geological Survey surface water site 06807000).</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>Date of sample collection.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>5/25/2017</rdommin>
+            <rdommax>5/25/2017</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Depth</attrlabl>
+        <attrdef>Depth below the surface of the river (in meters) where physical samples and LISST-ABS and turbidity measurements were taken concurrently.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1.25</rdommin>
+            <rdommax>6.92</rdommax>
+            <attrunit>Meters (m)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ABS</attrlabl>
+        <attrdef>In-situ LISST-ABS measurements of suspended-sediment concentrations (in mg/L).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>252</rdommin>
+            <rdommax>952</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Turbidity</attrlabl>
+        <attrdef>In-situ turbidity readings (in FNU) obtained from an optical turbidity sensor.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>161</rdommin>
+            <rdommax>186</rdommax>
+            <attrunit>Formazin Nephelometric Units (FNU)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Total SSC</attrlabl>
+        <attrdef>Total suspended-sediment concentration (in mg/L) from a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>552</rdommin>
+            <rdommax>1800</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Percent Finer</attrlabl>
+        <attrdef>Percentage of sediment finer than 62.5 microns in diameter for a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>29</rdommin>
+            <rdommax>93</rdommax>
+            <attrunit>Percent (%)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Fines</attrlabl>
+        <attrdef>Suspended-sediment concentration of solely the fine-grained sediment (that is, sediment less than 62.5 microns in diameter) in a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>485</rdommin>
+            <rdommax>533</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Sands</attrlabl>
+        <attrdef>Suspended-sediment concentration of solely the coarse-grained sediment (that is, sediment greater than 62.5 microns in diameter) in a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>38.6</rdommin>
+            <rdommax>1278</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>Missouri_River_StCharles_06935965.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing various sedimentary data collected at Missouri River at St. Charles, Missouri (U.S. Geological Survey surface water site 06935965).</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>Date of sample collection.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>7/20/2016</rdommin>
+            <rdommax>7/20/2016</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Depth</attrlabl>
+        <attrdef>Depth below the surface of the river (in meters) where physical samples and LISST-ABS and turbidity measurements were taken concurrently.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.91</rdommin>
+            <rdommax>5.76</rdommax>
+            <attrunit>Meters (m)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ABS</attrlabl>
+        <attrdef>In-situ LISST-ABS measurements of suspended-sediment concentrations (in mg/L).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>33.6</rdommin>
+            <rdommax>171</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Turbidity</attrlabl>
+        <attrdef>In-situ turbidity readings (in FNU) obtained from an optical turbidity sensor.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>106</rdommin>
+            <rdommax>123</rdommax>
+            <attrunit>Formazin Nephelometric Units (FNU)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Total SSC</attrlabl>
+        <attrdef>Total suspended-sediment concentration (in mg/L) from a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>250</rdommin>
+            <rdommax>742</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Percent Finer</attrlabl>
+        <attrdef>Percentage of sediment finer than 62.5 microns in diameter for a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>29.4</rdommin>
+            <rdommax>98.3</rdommax>
+            <attrunit>Percent (%)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Fines</attrlabl>
+        <attrdef>Suspended-sediment concentration of solely the fine-grained sediment (that is, sediment less than 62.5 microns in diameter) in a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>215</rdommin>
+            <rdommax>279</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Sands</attrlabl>
+        <attrdef>Suspended-sediment concentration of solely the coarse-grained sediment (that is, sediment greater than 62.5 microns in diameter) in a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>4.44</rdommin>
+            <rdommax>524</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>RioGrande_08374550_08375300.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing various sedimentary data collected at Rio Grande above Castolon, Texas (U.S. Geological Survey surface water site 08374535) and Rio Grande above Rio Grande Village, Texas (U.S. Geological Survey surface water site 08375295).</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Site</attrlabl>
+        <attrdef>U.S. Geological Survey (USGS) surface water site name.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Rio Grande above Castolon, TX</edomv>
+            <edomvd>USGS site 08374550</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Rio Grande above Rio Grande Village, TX</edomv>
+            <edomvd>USGS site 08375300</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>Date of sample collection.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>7/25/2016</rdommin>
+            <rdommax>7/28/2016</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ABS</attrlabl>
+        <attrdef>In-situ LISST-ABS measurements of suspended-sediment concentrations (in mg/L).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.9</rdommin>
+            <rdommax>5.75</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Total SSC</attrlabl>
+        <attrdef>Total suspended-sediment concentration (in mg/L) from a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>42.9</rdommin>
+            <rdommax>191</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Fines</attrlabl>
+        <attrdef>Suspended-sediment concentration of solely the fine-grained sediment (that is, sediment less than 62.5 microns in diameter) in a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>42.9</rdommin>
+            <rdommax>191</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Sands</attrlabl>
+        <attrdef>Suspended-sediment concentration of solely the coarse-grained sediment (that is, sediment greater than 62.5 microns in diameter) in a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1.02</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>Rock_Creek_01648010.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing various sedimentary data collected at Rock Creek at Washington D.C. (U.S. Geological Survey surface water site 01648010).</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>Date of sample collection.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1/10/2016</rdommin>
+            <rdommax>2/21/2018</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ABS</attrlabl>
+        <attrdef>In-situ LISST-ABS measurements of suspended-sediment concentrations (in mg/L).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.19</rdommin>
+            <rdommax>5970</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Turbidity</attrlabl>
+        <attrdef>In-situ turbidity readings (in FNU) obtained from an optical turbidity sensor.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1.6</rdommin>
+            <rdommax>830</rdommax>
+            <attrunit>Formazin Nephelometric Units (FNU)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Total SSC</attrlabl>
+        <attrdef>Total suspended-sediment concentration (in mg/L) from a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>3</rdommin>
+            <rdommax>2900</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Fines</attrlabl>
+        <attrdef>Suspended-sediment concentration of solely the fine-grained sediment (that is, sediment less than 62.5 microns in diameter) in a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2.37</rdommin>
+            <rdommax>1972</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Sands</attrlabl>
+        <attrdef>Suspended-sediment concentration of solely the coarse-grained sediment (that is, sediment greater than 62.5 microns in diameter) in a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>928</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>Sacramento_River_11447650.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing various sedimentary data collected at Sacramento River at Freeport, California (U.S. Geological Survey surface water site 11447650).</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>Date of sample collection.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>5/3/2017</rdommin>
+            <rdommax>5/3/2017</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Depth</attrlabl>
+        <attrdef>Depth below the surface of the river (in meters) where physical samples and LISST-ABS and turbidity measurements were taken concurrently.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1.29</rdommin>
+            <rdommax>7.27</rdommax>
+            <attrunit>Meters (m)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ABS</attrlabl>
+        <attrdef>In-situ LISST-ABS measurements of suspended-sediment concentrations (in mg/L).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>26.3</rdommin>
+            <rdommax>62.1</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Turbidity</attrlabl>
+        <attrdef>In-situ turbidity readings (in FNU) obtained from an optical turbidity sensor.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>25.6</rdommin>
+            <rdommax>30</rdommax>
+            <attrunit>Formazin Nephelometric Units (FNU)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Total SSC</attrlabl>
+        <attrdef>Total suspended-sediment concentration (in mg/L) from a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>42</rdommin>
+            <rdommax>140</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Percent Finer</attrlabl>
+        <attrdef>Percentage of sediment finer than 62.5 microns in diameter for a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>36</rdommin>
+            <rdommax>85</rdommax>
+            <attrunit>Percent (%)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Fines</attrlabl>
+        <attrdef>Suspended-sediment concentration of solely the fine-grained sediment (that is, sediment less than 62.5 microns in diameter) in a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>34.8</rdommin>
+            <rdommax>50.4</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Sands</attrlabl>
+        <attrdef>Suspended-sediment concentration of solely the coarse-grained sediment (that is, sediment greater than 62.5 microns in diameter) in a given physical sample (analyzed in a laboratory setting).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>6.3</rdommin>
+            <rdommax>89.6</rdommax>
+            <attrunit>Milligrams per Liter (mg/L)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey</cntorg>
+          <cntper>GS ScienceBase</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P9LROJE4</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20200813</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Adam Manaster</cntper>
+          <cntorg>U.S. Geological Survey Central Midwest Water Science Center</cntorg>
+        </cntperp>
+        <cntpos>Student Hydrologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>405 N. Goodwin Avenue</address>
+          <city>Urbana</city>
+          <state>Illinois</state>
+          <postal>61801</postal>
+          <country>U.S.</country>
+        </cntaddr>
+        <cntvoice>217-328-9707</cntvoice>
+        <cntfax>217-328-9770</cntfax>
+        <cntemail>aemanaster@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>
